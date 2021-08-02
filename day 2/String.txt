@@ -1,0 +1,55 @@
+1. .capitalized()
+2. .title()
+3. input().split()
+4. input().split('delimeter')
+5. .replace('val1','val2')
+6. .upper()
+7. .lower()
+8. f"description {a} and {b}"
+9. "description %s and %s".format(a,b)
+10. len(val1) = Count the character within the string, its return an integer 
+
+==========Numeric Operation============
+1. Addition
+>>> 1 + 1
+result: 2
+2. Exponentiation
+>>> 2 ** 3
+result: 8
+= 2 raised to the power of 3
+= 2 * 2 * 2
+3. pow() Returns x ** y 
+>>> pow(2, 3)
+result: 8
+4. Modulus
+>>> 4 % 2
+result: 0 which is the remainder
+5. round() Returns a floating number to a certain precesion
+>>> a = 3.5156
+>>> round(3.5156,2)
+result: 3.52
+6. math.ceil() Return the ceiling value of a number
+>>> import math
+>>> a = 3.5156
+>>> math.ceil(3.5156)
+result: 4
+7. math.floor() Return the floor of a given number
+
+==============Printing numeric precision/2=============
+>>> weight = 50.113
+>>> name = 'Ray'
+print("%s weighs %.1f kilos. "%(name, weight)) 
+result: Ray weight 50.1 kilos.
+print("{} weighs {:.1f} kilos. ".format(name, weight)) 
+result: Ray weight 50.1 kilos.
+print(f"{name} weighs {weight:.1f} kilos. ") 
+result: Ray weighs 50.1 kilos.
+
+print  1 line
+print(a) with default next line
+print(b, end=" ") with no default next line
+print(c, end=" ")
+
+
+
+

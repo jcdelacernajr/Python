@@ -1,0 +1,8 @@
+Name = input('Enter your name:')
+English = input('English:')
+Math = input('Math:')
+Science = input('Science:')
+print("Name: ", Name)
+print("English: ", float(English))
+print("Math: ", float(Math))
+print("Science: ", float(Science))

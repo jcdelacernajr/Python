@@ -1,0 +1,10 @@
+a = 1
+a == 1
+result: true
+
+a is 1
+result: true
+
+a is not 0
+result: true
+
