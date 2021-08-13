@@ -1,4 +1,4 @@
-# RESTAURANT RESRVATION SYSTEM
+# RESTAURANT RESERVATION SYSTEM
 # Created by Juanito C. Dela Cerna Jr. March 12, 2021
 
 # class System
